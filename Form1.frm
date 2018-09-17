@@ -33,5 +33,5 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Option Explicit
 Private Sub Command1_Click()
-MsgBox "Hello You. This is a test 2" & Text1.Text
+MsgBox "Hello You. This is a test 3" & Text1.Text
 End Sub
